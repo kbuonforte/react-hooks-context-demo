@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# react-hooks-context-demo
-=======
 # react-parcel-starter
 This is a minimal React starter project. Only React and React DOM have been installed
->>>>>>> Initial commit
-=======
+
 # React Parcel Starter Kit
 
 This is a minimal React starter project that uses the [Parcel JS](https://www.parceljs.org) to build the project. Only React and React DOM modules have been installed
@@ -44,4 +39,3 @@ Open the file `package.json` and update the repository details. You may also nee
 ## Contribution
 
 Simply create a fork of this project. Do your contribution on a separate branch then submit a pull request for review.
->>>>>>> Updated Readme
